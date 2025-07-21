@@ -23,11 +23,38 @@ Welcome to my digital beat. I'm Raul, a current police officer turned networking
 ### 🔒 [Firewall Configurator](https://github.com/NetworkPolice/firewall-config-lab)
 - Real-world rule sets with iptables, including zone-based segmentation.
 
+## 🔐 Networking Police HTTPS Setup
+
+This local deployment demonstrates SSL implementation using Apache and a self-signed certificate. The site runs securely at `https://networkingpolice.local` on an Ubuntu VM.
+
+### 📸 Screenshots
+
+#### 🛡️ Secure Homepage
+![Homepage](screenshots/homepage.png)
+
+#### ⚠️ SSL Browser Warning
+![SSL Warning](screenshots/ssl-warning.png)
+
+#### ⚙️ Apache SSL Config
+![Apache Config](screenshots/apache-config.png)
+
+#### 🔏 Certificate Creation
+![Certificate Generation](screenshots/cert-generation.png)
+
+#### 🗂️ Hosts File Mapping
+![Hosts](screenshots/hosts-edit.png)
+
+#### 🧰 Apache Enable Commands
+![Apache Enable](screenshots/apache-enable.png)
+
+> ⚠️ This site runs locally using a self-signed certificate. It is not accessible externally, but demonstrates secure site setup for portfolio purposes.
+
 ## 🎯 Mission
 To build a portfolio that reflects my commitment to secure, stable networking environments—and to launch my tech career with a strong foundation in cybersecurity.
 
 ## 📫 Contact & Connect
 - GitHub: [NetworkPolice](https://github.com/NetworkPolice)
 - LinkedIn: *(Are we still using this?)*
+
 
 ---
