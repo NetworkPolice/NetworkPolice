@@ -39,10 +39,10 @@ This local deployment demonstrates SSL implementation using Apache and a self-si
 ![Apache Config](screenshots/apache-config.png)
 
 #### 🔏 Certificate Creation
-![Certificate Generation](screenshots/cert-generation.png)
+![Certificate Generation](screenshots/cert-generation1.png)
 
 #### 🗂️ Hosts File Mapping
-![Hosts](screenshots/hosts-edit.png)
+![Hosts](screenshots/host-edit.png)
 
 #### 🧰 Apache Enable Commands
 ![Apache Enable](screenshots/apache-enable.png)
