@@ -26,9 +26,6 @@ Welcome to my digital beat. I'm Raul, a current police officer turned networking
 ## 🎯 Mission
 To build a portfolio that reflects my commitment to secure, stable networking environments—and to launch my tech career with a strong foundation in cybersecurity.
 
-## 🖼️ Visual Brand
-![Networking Police Logo](./assets/networking-police-logo.png)
-
 ## 📫 Contact & Connect
 - GitHub: [NetworkPolice](https://github.com/NetworkPolice)
 - LinkedIn: *(Are we still using this?)*
