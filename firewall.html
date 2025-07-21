@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Firewall Division</title>
+  <style>
+    body { background-color: #0d1b2a; color: #fff; font-family: monospace; padding: 2rem; }
+    h1 { color: #ff4c4c; }
+    .log { background: #1c2e4a; padding: 1rem; border-radius: 5px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>🧱 Firewall Division</h1>
+  <p>Welcome to the Firewall Division. Below are logged rule sets and subnet violations.</p>
+
+  <div class="log">
+    <strong>Rule:</strong> Deny inbound traffic on port 23 (Telnet)<br>
+    <strong>Status:</strong> Enforced via UFW<br>
+    <strong>Last Violation:</strong> 192.168.1.45 attempted Telnet access
+  </div>
+</body>
+</html>
