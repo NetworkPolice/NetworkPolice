@@ -20,7 +20,7 @@ Welcome to my digital beat. I'm Raul, a current police officer turned networking
 ### 🌐 [Retro MySpace-Inspired Website](https://github.com/NetworkPolice/retro-web-hosting)
 - Hosted on Ubuntu with Apache; includes autoplay music and nostalgic design.
 
-### 🔒 [Firewall Configurator](https://github.com/NetworkPolice/firewall-config-lab)
+### 🔒 [Firewall Division](https://networkpolice.github.io/NetworkPolice/firewall.html)
 - Real-world rule sets with iptables, including zone-based segmentation.
 
 ## 🔐 Networking Police HTTPS Setup
