@@ -1,6 +1,12 @@
 # 👮‍♂️ NetworkPolice | Raul's Journey from law enforcement to network enforcement—building secure systems one subnet at a time.
 
-Welcome to my digital beat. I'm Raul, a current police officer turned networking enthusiast. I am currently looking under the hood of networking to build the skills and projects that power secure systems. Some systems are great but sometimes systems need a little more boost and fine tunning. I specialize in hands-on network configurations, firewall management "Yes! I get to be a firefighter...well a networking one", and system hosting—rooted in a mindset of discipline, reliability, and security. To some it all up im here to learn and pave my way into networking and security. One day I will get there and live in the cloud. Till than it will be late night going light and sirens through the city of networking. 
+Welcome to my digital beat. I'm Raul, a former police officer now patrolling the world of networking. My mission: Dive deep into the backbone of secure systems and build the skillset that keeps infrastructure resilient and responsive.
+
+Some systems hum perfectly. Others need a tune-up and a tactical response.
+
+I specialize in hands-on network configuration, firewall enforcement (Yes, I get to be a firefighter—of the TCP/IP kind), and VM-based system hosting. I approach every setup with discipline, attention to detail, and security-first thinking.
+
+To sum it up: I'm here to learn, grow, and pave my way into cybersecurity and network engineering. One day, I’ll live in the cloud. Until then, it’s late nights, lights and sirens echoing through the city of packets. 
 
 ## 🛠️ Core Skills & Tools
 - Networking: DNS, DHCP, Subnetting, Firewall Rules
