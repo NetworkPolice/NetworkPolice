@@ -1,6 +1,6 @@
 # 👮‍♂️ NetworkPolice | Journey from law enforcement to network enforcement—building secure systems one subnet at a time.
 
-Welcome to my digital beat. I'm Raul, a former police officer now patrolling the world of networking. My mission: Dive deep into the backbone of secure systems and build the skillset that keeps infrastructure resilient and responsive.
+Welcome to my digital beat. I'm Raul, a current police officer now patrolling the world of networking. My mission: Dive deep into the backbone of secure systems and build the skillset that keeps infrastructure resilient and responsive.
 
 Some systems hum perfectly. Others need a tune-up and a tactical response.
 
