@@ -23,8 +23,8 @@ Welcome to my digital beat. I'm Raul, a current police officer turned networking
 ### 🔒 [Firewall Division](https://networkpolice.github.io/NetworkPolice/firewall.html)
 - Real-world rule sets with iptables, including zone-based segmentation.
 
-###    [DNS Division](https://networkpolice.github.io/NetworkPolice/dns.html)
-- Prepare zone files, investigate lookup anomalies, and enforce DNS protocols.
+### 🧭 [DNS Division](https://networkpolice.github.io/NetworkPolice/dns.html)  
+  - Prepare zone files, investigate lookup anomalies, and enforce DNS protocols.
 
 
 ## 🔐 Networking Police HTTPS Setup
