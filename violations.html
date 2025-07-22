@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Violations Division</title>
+  <style>
+    body {
+      background-color: #1f2937;
+      color: #f3f4f6;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 2rem;
+    }
+    h1 {
+      color: #f87171;
+      border-bottom: 2px solid #f87171;
+      margin-bottom: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #9ca3af;
+      padding: 0.5rem;
+      text-align: left;
+    }
+    th {
+      background-color: #374151;
+      color: #fbbf24;
+    }
+    tr:nth-child(even) {
+      background-color: #2d3748;
+    }
+  </style>
+</head>
+<body>
+  <h1>Violations Division</h1>
+  <p>Tracking mock infractions and suspicious network behavior.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>IP Address</th>
+        <th>Infraction</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>14:32</td>
+        <td>192.168.5.23</td>
+        <td>Unauthorized Telnet usage</td>
+      </tr>
+      <tr>
+        <td>15:01</td>
+        <td>10.0.1.77</td>
+        <td>Ping sweep detected</td>
+      </tr>
+      <tr>
+        <td>15:22</td>
+        <td>172.16.8.15</td>
+        <td>Port scan on TCP 22</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
