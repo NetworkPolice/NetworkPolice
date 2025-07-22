@@ -23,6 +23,10 @@ Welcome to my digital beat. I'm Raul, a current police officer turned networking
 ### 🔒 [Firewall Division](https://networkpolice.github.io/NetworkPolice/firewall.html)
 - Real-world rule sets with iptables, including zone-based segmentation.
 
+###    [DNS Division](https://networkpolice.github.io/NetworkPolice/dns.html)
+- Prepare zone files, investigate lookup anomalies, and enforce DNS protocols.
+
+
 ## 🔐 Networking Police HTTPS Setup
 
 This local deployment demonstrates SSL implementation using Apache and a self-signed certificate. The site runs securely at `https://networkingpolice.local` on an Ubuntu VM.
