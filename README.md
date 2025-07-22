@@ -34,8 +34,6 @@ Visual snapshots of active division dashboards hosted via GitHub Pages.
 ![Mock DNS dashboard with placeholder zone files](screenshots/dns-division-dashboard.png)  
 > Sample DNS division layout showing diagnostic placeholders and zone simulation.
 
-*(Add other screenshots as needed for the Firewall or Violations Division.)*
-
 ---
 
 ## 🚀 Recent Project Highlights
