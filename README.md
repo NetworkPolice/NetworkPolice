@@ -62,7 +62,6 @@ Visual snapshots of active division dashboards hosted via GitHub Pages.
 ## 🛠️ Core Skills & Tools
 - Networking: DNS, DHCP, Subnetting, Firewall Rules
 - Systems: Linux (Ubuntu), Apache, Virtual Machines
-- Web: HTML, CSS (Retro Web Design Projects)
 - Security Awareness: Protocol Adherence, Threat Detection
 - Scripting: Python (automation experiments in progress) learning as i go.
 
